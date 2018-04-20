@@ -69,16 +69,18 @@ cd
 
 # About
 clear
+echo "ได้ล่ะไอควยเล่นเอาเหนื่อยเลย"
 echo "Script ini hanya mengandungi :-"
 echo "-Pritunl"
 echo "-MongoDB"
 echo "-Vnstat"
 echo "-Web Server"
 echo "-Squid Proxy Port 7166,60000"
-echo "BY MKSSHVPN"
-echo "TimeZone   :  Malaysia"
+echo "BY Dinfucker"
+echo "TimeZone   :  ไทยไงไอ้สัส"
 echo "Vnstat     :  http://$MYIP:81/vnstat"
 echo "Pritunl    :  https://$MYIP"
 echo "Sila login ke pritunl untuk proceed step seterusnya"
 echo "Sila copy code dibawah untuk Pritunl anda"
+echo "ไปล่ะไปควยระวังพ่อมึงตัวเย็น"
 pritunl setup-key
